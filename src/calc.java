@@ -10,7 +10,8 @@ public class calc {
         return num1-num2;
     }
     
-    public stattic double multiply(double num1, double num2){
+    public static double multiply(double num1, double num2){
+        //nothing new
     return num1*num2;
     }
 }
