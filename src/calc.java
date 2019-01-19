@@ -9,4 +9,8 @@ public class calc {
         double result = num1-num2;
         return num1-num2;
     }
+    
+    public stattic double multiply(double num1, double num2){
+    return num1*num2;
+    }
 }
